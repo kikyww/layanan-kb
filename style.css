@@ -1,0 +1,21 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+#ccenter{
+    background-color: #e2edff;
+}
+
+.accordions{
+    background-color: #e2edff;
+}
+
+.footers{
+    background-color: #0080ff ;
+}
+
