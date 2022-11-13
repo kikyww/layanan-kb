@@ -4,8 +4,18 @@ body{
     overflow-x: "hidden";
 }
 
+.images{
+    width: 40vh;
+    height: 50vh;
+}
+
 .jumbotron{
     padding-top: 2rem;
+    background-color: #e2edff;
+}
+
+
+.center-card{
     background-color: #e2edff;
 }
 
